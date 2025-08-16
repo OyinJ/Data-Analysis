@@ -1,4 +1,4 @@
-# Data-Analysis
+# Data-Analysis with Excel
 This project presents a dynamic Excel dashboard for visualizing and analyzing bike purchase behavior across different demographic groups. The dashboard was built using PivotTables, PivotCharts, slicers, and data cleaning techniques.
 
 ## 📊 Features
